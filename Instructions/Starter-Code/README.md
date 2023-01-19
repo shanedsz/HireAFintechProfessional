@@ -8,7 +8,9 @@ You work at a startup that is building a new and disruptive platform called Kryp
 
 In this Challenge, you will complete the code that enables your customers to send cryptocurrency payments to fintech professionals. To develop the code and test it out, you will assume the perspective of a KryptoJobs2Go customer who is using the application to find a fintech professional and pay them for their work.
 
-![Screenshot of Gana]
+![Screenshot of Ganache Transactions](Images/Screen%20Shot%202023-01-18%20at%2011.26.44%20PM.png)
+![Screenshot of Ganache Transactions](Images/Screen%20Shot%202023-01-18%20at%2011.32.02%20PM.png)
+![Screenshot of Ganache Transactions](Images/Screen%20Shot%202023-01-18%20at%2011.32.25%20PM.png)
 
 ### What You're Creating
 
